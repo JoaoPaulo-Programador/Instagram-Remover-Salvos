@@ -2,7 +2,7 @@
 
 Este repositório contém um script JavaScript para **remover automaticamente posts salvos no Instagram**, executando diretamente no console do navegador.
 
-** Atenção **
+## Atenção
 - O script NÃO é uma extensão
 - Ele deve ser executado manualmente no navegador
 - Use por sua conta e risco
